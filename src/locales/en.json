@@ -1,6 +1,6 @@
 {
   "nav": {
-    "home": "home",
+    "home": "Home",
     "boxLetters": "Box Letters",
     "sign": "Sign",
     "digitalPrinting": "Digital Printing",
@@ -55,9 +55,12 @@
     "card1Title": "Mishwar Restaurant Sign",
     "card2Title": "Desk & Podium Flags Printing",
     "card3Title": "Paper Menu Design",
-    "card4Title": "Compound Board Sign with Illuminated Plexi Letters",
-    "card5Title": "Compound Sign with Illuminated Metal Letters",
+    "card4Title": "Alucobond Board Sign with Illuminated Plexi Letters",
+    "card5Title": "Alucobond Sign with Illuminated Metal Letters",
     "card6Title": "Car Advertising Signage",
+    "card7Title": "Flex Sign",
+    "card8Title": "Alucobond Sign with Illuminated Metal Letters",
+    "card9Title": "Acrylic Illuminatad Sign",
     "badgeBoxLetters": "Box Letters",
     "badgeSigns": "Signs",
     "badgePrinting": "Digital Printing"

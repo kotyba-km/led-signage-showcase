@@ -1,5 +1,5 @@
 import img1 from "@/assets/photo_2026-08-10_12-23-39.webp";
-import img2 from "@/assets/pro.webp";
+import img2 from "@/assets/pro77.png";
 import img3 from "@/assets/pro2.webp";
 import type { ServiceItem } from "@/types";
 
